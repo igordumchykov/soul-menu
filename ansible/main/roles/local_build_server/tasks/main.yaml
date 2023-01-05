@@ -1,0 +1,11 @@
+---
+- name: build server
+  docker_image:
+    build:
+      args:
+        SERVER_PORT: "{{ server_port_to }}"
+      path: ../../server
+    name: "{{ server_image }}"
+    push: true
+    source: build
+    force_source: yes

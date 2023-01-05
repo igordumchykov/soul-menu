@@ -1,0 +1,6 @@
+---
+
+- name: create keys directory if not exists
+  file:
+    path: ./keys
+    state: directory

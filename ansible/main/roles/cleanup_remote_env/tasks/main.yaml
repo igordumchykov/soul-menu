@@ -1,0 +1,7 @@
+---
+- name: terminate instance
+  ec2_instance:
+    state: absent
+    filters:
+      "tag:AppName": "{{ app_name }}-{{ app_env }}"
+      "instance-state-name": "running"

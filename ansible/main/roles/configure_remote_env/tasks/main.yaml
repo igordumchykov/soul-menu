@@ -1,0 +1,9 @@
+---
+- name: pre-install
+  import_tasks: pre_install.yaml
+
+- name: create a backend container
+  import_tasks: server.yaml
+
+- name: create a frontend container
+  import_tasks: client.yaml

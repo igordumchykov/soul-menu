@@ -1,0 +1,7 @@
+---
+- name: prepare local environment
+  import_tasks: prepare_local_env.yaml
+
+- name: provision AWS resources
+  import_tasks: provision_aws_resources.yaml
+

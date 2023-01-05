@@ -1,0 +1,4228 @@
+{
+  "name": {
+    "ua": "Їжа",
+    "eng": "Food"
+  },
+  "imageUrl": "food.png",
+  "groups": [
+    {
+      "category": "hot-dogs",
+      "name": {
+        "ua": "Хот-доги",
+        "eng": "Hot-dogs"
+      },
+      "imageUrl": "img-hot-dog-01.png",
+      "tags": [
+        "hot-dogs"
+      ],
+      "items": [
+        {
+          "name": {
+            "ua": "Козацький",
+            "eng": "Cosacs"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 50,
+              "volume": 260
+            }
+          ],
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Запашна підкопчена сосиска",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "булочка для хот-догу",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "соус",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "майонез",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "гірчиця",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Козацький з сиром",
+            "eng": "Cosacs with cheese"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 50,
+              "volume": 260
+            }
+          ],
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Сосиска з сиром",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "булочка для хот-догу",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "соус",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "майонез",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "гірчиця",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "burgers",
+      "name": {
+        "ua": "Бургери",
+        "eng": "Burgers"
+      },
+      "imageUrl": "img-burger-2.png",
+      "tags": [
+        "burgers"
+      ],
+      "items": [
+        {
+          "name": {
+            "ua": "Класичний",
+            "eng": "Classic"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 150,
+              "volume": 260
+            }
+          ],
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Булочка з кунжутом",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "сир",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "котлета (свинина/яловичина)",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "мариновані огірки",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "томати",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "лист салату",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "цибуля маринована",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "соус",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "З індичкою",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 150,
+              "volume": 260
+            }
+          ],
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Булочка з кунжутом",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "сир",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "котлета (індичка/індик)",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "мариновані огірки",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "томати",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "лист салату",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "цибуля маринована",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "соус",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "З беконом",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 180,
+              "volume": 260
+            }
+          ],
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Булочка з кунжутом",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "сир",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "котлета (свинина/яловичина)",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "бекон",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "мариновані огірки",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "томати",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "лист салату",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "цибуля маринована",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "соус",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Подвійний класичний",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 180,
+              "volume": 260
+            }
+          ],
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Булочка з кунжутом",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "подвійний сир",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "подвійна котлета (свинина/яловичина)",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "бекон",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "мариновані огірки",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "томати",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "лист салату",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "цибуля маринована",
+                "eng": ""
+              },
+              "available": true
+            },
+            {
+              "name": {
+                "ua": "соус",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "coffee",
+      "name": {
+        "ua": "Кава",
+        "eng": "Coffee"
+      },
+      "imageUrl": "coffee.png",
+      "tags": [
+        "coffee"
+      ],
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Еспресо",
+            "eng": "Espresso"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 20,
+              "volume": 30
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Допіо",
+            "eng": "Doppio"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 30,
+              "volume": 60
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Допіо з молоком",
+            "eng": "Doppio with milk"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 36,
+              "volume": 90
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Американо",
+            "eng": "Americano"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 20,
+              "volume": 120
+            },
+            {
+              "price": 33,
+              "volume": 220
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Американо з молоком",
+            "eng": "Americano with milk"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 26,
+              "volume": 150
+            },
+            {
+              "price": 37,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Капучино",
+            "eng": "Cappuccino"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 28,
+              "volume": 280
+            },
+            {
+              "price": 40,
+              "volume": 340
+            },
+            {
+              "price": 50,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Лате",
+            "eng": "Late"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 35,
+              "volume": 340
+            },
+            {
+              "price": 50,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Лунго",
+            "eng": "Lungo"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 20,
+              "volume": 90
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Кава Гляссе",
+            "eng": "Coffee Glase"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 35,
+              "volume": 340
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Мокачино",
+            "eng": "Mocaccino"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 36,
+              "volume": 250
+            },
+            {
+              "price": 46,
+              "volume": 340
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Раф",
+            "eng": "Raf"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 180
+            },
+            {
+              "price": 49,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Флет Уайт",
+            "eng": "Flat White"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 180
+            },
+            {
+              "price": 58,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Какао",
+            "eng": "Cocao"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 340
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Гарячий шоколад",
+            "eng": "Hot Chocolate"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 340
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Гарячий шоколад з перцем",
+            "eng": "Hot Chocolate with Pepper"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 340
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "category": "coffee-tea-extras",
+      "name": {
+        "ua": "Додатки в чай, каву",
+        "eng": "Coffee and tea extras"
+      },
+      "imageUrl": "coffee-tea-extras.png",
+      "tags": [
+        "coffee",
+        "tea",
+        "extra"
+      ],
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Сироп",
+            "eng": "Syrup"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 5
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Імбир",
+            "eng": "Ginger"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 10
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Мед",
+            "eng": "Honey"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 5
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Кориця",
+            "eng": "Cinamon"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 2
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Лимон",
+            "eng": "Lemon"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 10
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "М'ята",
+            "eng": "Mint"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 3
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Тертий шоколад",
+            "eng": "Grated chocolate"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 10
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Маршмелоу",
+            "eng": "Marhmallows"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 7
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Маленьке бізе",
+            "eng": "Small bizes"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 5,
+              "volume": 7
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        }
+
+
+
+      ]
+    },
+    {
+      "category": "baking",
+      "name": {
+        "ua": "Випічка",
+        "eng": "Baking"
+      },
+      "imageUrl": "img-cookees.png",
+      "tags": [
+        "baking"
+      ],
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Бізе",
+            "eng": "Meringue"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 12,
+              "volume": 10
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Біскотті",
+            "eng": "Biscotti"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 27,
+              "volume": 37
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Вівсяне",
+            "eng": "Oatmeal"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 17,
+              "volume": 60
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Смугасте",
+            "eng": "Striped"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 18,
+              "volume": 0
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Кокосове",
+            "eng": "Coconut cookies"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 18,
+              "volume": 0
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Шоколадне",
+            "eng": "Chocolate cookies"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 17,
+              "volume": 0
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "гр",
+            "eng": "g"
+          },
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "category": "natural-tea",
+      "name": {
+        "ua": "Чаї натуральні",
+        "eng": "Natureal Tea"
+      },
+      "imageUrl": "img-tea.png",
+      "tags": [
+        "tea",
+        "natural"
+      ],
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Імбир - Обліпиха",
+            "eng": "Ginger & Sea buckthom"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Імбир - Лемонграсс",
+            "eng": "Ginger & Lemongrass"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Імбир - Журавлина",
+            "eng": "Ginger & Cranberry"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Смородина - Базилік",
+            "eng": "Currant & Basil"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Апельсин - М’ята",
+            "eng": "Orange & Mint"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Малина - М’ята",
+            "eng": "Raspberry & Mint"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Мікс ягід",
+            "eng": "Mix of Berries"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 430
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        }
+      ]
+    },
+    {
+      "category": "black-tea",
+      "name": {
+        "ua": "Чорні Чаї",
+        "eng": "Black Tea"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "imageUrl": "img-black-tea.png",
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Апельсиновий фреш",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай, цедра апельсина, аромат апельсина",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Малиновий еклер",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай цейлонський байховий листовий, аронія плоди, ягоди малини сушені, пелюстки квітів сафлору та волошки, натуральний ароматизатор “Малина”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Полунична любов",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай, ягоди полуниці, цукрові сердечка, аромат полуниці",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Саусеп чорний",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай цейлонський байховий листовий, шматочки саусепу, пелюстки квітів (волошки та сафлору), натуральний ароматизатор “Саусеп” ",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Сонячна малина",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай, ягоди малини, аромат малини",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Справжнє задоволення",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай цейлонський байховий листовий, шкірка шипшини, цедра апельсину, шматочки яблук, пелюстки волошки, натуральний ароматизатор “тропік” ",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Тропік Рака",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай, цукати ананаса, цукати папаї, банан чипси, плоди манго, родзинки, волоський горіх, мигдальні пластівці, ягоди полуниці, ягоди малини, пелюстки календули, пелюстки волошки, цукрва посипка, тропічний аромат.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Чорниця в йогруті",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай, ягоди чорниці, лист смородини, ягоди полуниці, желейні кульки, цукрові сердечка, пелюстки волошки, аромат чониці та йогрутру",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Нахабний фрукт",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чай чорний цейлонський байховий, шматочки ананасу та персика, банан сушений чіпсами, цедра пальсину, пелюстки квітів (нагідка, сафлор), натуральний ароматизатор “персик”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Сер Чарльз Грей",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний чай, цедра апельсину, пелюстки квітів (нагіди та волошки), натуральний ароматизатор “Бергамот”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "black"
+      ]
+    },
+    {
+      "category": "green-tea",
+      "name": {
+        "ua": "Зелені Чаї",
+        "eng": "Green Tea"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "imageUrl": "img-green-tea.png",
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Дабл Беррі",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Зелений чай Сенча, ягоди плуниці, полуниця слайси, ягоди малини, шоколажна стружка плунична, пелюстки соняшника, аромат полуниці та малини",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Золотий Манго",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чай зелений байховий китайський листовий, шматочки манго, пелюстки квітів апельсину, пелюстки нагідки, ароматизатор  “Манго”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Імбирний",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Зелений чай, корінь імбиру, пелюстки календули",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Казки лісу",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Зелений байховий листовий, ягоди годжі, кондитерська посипка “Місяць” та “Зорі”, шматочки малини, пелюстки квітів (мальви та волошки), натуральні ароматизатори “Малина” та “Вишня”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Калина - Смородина",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Зелений чай, ягоди чорної смородини, ягоди калини, ягоди малини, квітки липи, аромат смородини",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Король жасмину",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Китайсткий зелений байховий найвищої якості листовий, з жасмином",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Ніч Клеопатри",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Китайський чай листовий, шматочки ананасу та яблука, пелюстки квітів (сафлору китайської троянди, нагідки, волошки) бутони китайської троянди, натруальний ароматизатор “Малина”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Саусеп",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чай китайсткий зелений байховий листовий, шматочки сауспеу, пелюстки квітів (сафлор, волошка) ароматизатор “Саусеп”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Суниця з вершками",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чай зелений китайський байховий листовий, шматочки полуниці, ягоди годжі, пелюстки квітів китайської троянди та волошка, бутони китайської троянди, натуральні ароматизатори “суниця” та “вершки”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Exclusive Gun Powder",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Класичниий китайський зелений байховий найвищої якості",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "green"
+      ]
+    },
+    {
+      "category": "green-black-tea",
+      "name": {
+        "ua": "Чорний & Зелений",
+        "eng": "Blend Black & Green Tea"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Бризки Шампанського",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чай чорний цейлонський байховий листовий, чай зелений цейлонський байховий листовий, ягоди годжі, шматочки полуниці, пелюстки волошки, натуральний ароматизатор “суниця”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "1001 Ніч",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чай чорний цейлонський байховий листовий, чай pелений китайський байховий листовий, плоди яблук, бутони китайської троянди, пелюстки квітів (троянда китайська, нагідка, сафлор, волошка), натуральний ароматизатор “виноград”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "1002 Ночі",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чай чорний цейлонський байховий листовий, чай pелений китайський байховий листовий, шматочки ананасу, пелюстки квітів (мальва, троянда китайська, нагідка), натруальний ароматизатор “персик” та “полунийя з вершками”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "green",
+        "black"
+      ]
+    },
+    {
+      "category": "karkade-tea",
+      "name": {
+        "ua": "Каркаде",
+        "eng": "Karkade"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Каркаде",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Пелюстки суданської троянди «каркаде»",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Королівський десерт",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Пелюстки суданської троянди «каркаде», шматочки шипшини, банана, кориці та ананаса, цедра апельсина, ягоди вишні, родзинки, мигдальний горіх, гвоздика, пелюстки квітів календули та китайської троянди, натуральний ароматизатор “Вишня”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "karkade"
+      ]
+    },
+    {
+      "category": "rooibos-tea",
+      "name": {
+        "ua": "Ройбуш",
+        "eng": "Rooibos"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Ройбуш",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Ройбуш вищого гатунку",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Ройбуш суниця",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Ройбуш вищого гатунку, ягоди суниці, аромат суниці",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "rooibos"
+      ]
+    },
+    {
+      "category": "herbal-tea",
+      "name": {
+        "ua": "Трав’яні Чаї",
+        "eng": "Herbal Tea"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Альпійський луг",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Лимонна трава різана, квіти ромашки, плоди шипшини, цедра апельсину, листя м’яти перцової та листя ожини, плоди яблука, мате, квіти апельсину, трава ехінацї, пелюстки квітів (сафлору та волошки)",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Райське яблуко",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Ромашка квіти, яблуко плоди, шипшина плоди, кориця",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "М’ятна фантазія",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Листя м’яти, пелюстки суданської троядинди (каркаде), плоди шипшини, плоди яблука, цедра апельсина, пелюстки волошки",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Лемонграс (в чайнику)",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 80
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Трава лемонграсс вищого гатунку",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "herbal"
+      ]
+    },
+    {
+      "category": "fruit-tea",
+      "name": {
+        "ua": "Фруктові Чаї",
+        "eng": "Fruit Teas"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Калина - Малина - Липа",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Ягоди калини, квіти липи, пелюстки суданськї троянди (каркаде), ягодини малини, аромат малини.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "fruit"
+      ]
+    },
+    {
+      "category": "white-tea",
+      "name": {
+        "ua": "Білі Чаї",
+        "eng": "White Tea"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Yes, I do",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Білий чай, миглальні пластівці, кококс кубики, сусальне золото , зефір , аромат кокосу",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "white"
+      ]
+    },
+    {
+      "category": "chinese-tea",
+      "name": {
+        "ua": "Китайські Чаї",
+        "eng": "Chinese Tea"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "imageUrl": "chinese-tea-set.png",
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Ба Бао Ча",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Ba Bao Cha - згідно з традиційним рецептом, цей трав’яний чай містить 8 видів сировини: лонган, зизифус, ягоди годжі, троянду, хризантему, родзинки, сушений кумкват і льодяники.\nЧайний напій чистий, він пахне ароматом троянди та хризантеми, має свіжий і легкий солодкуватий смак, характер цього чаю полягає в тому, що ви відчуєте інший смак від кожного ковтка.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "В’язаний чай",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Зленений чай,  за якусь мить від кульки один за одним почнуть відгинатися листочки. Повільно, в єдиному ритмі. Із серцевини побіжать бульбашки повітря, як у бокалі шампанського. А потім з'явиться розкішна квітка. Естетична насолода.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Да Хон Пао",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Великий Червоний Халат.\u2028Найвідоміший улун з гір Уі провінції Фуцзянь. Ферментовану сировину піддають процедурі «Хун Пей» - сушка з пропіканням. За рахунок такої обробки чай може зберігатися багато років, стаючи з часом тільки краще.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Імператорські голки",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Imperial Feng Qing Dian Hong - це золотисто-апельсиновий напій, який неймовірно м’який і його можна настоювати більше, ніж будь-який чорний чай, який я коли-небудь пробував.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Османтус Альпіський луг",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Квиіт чайнох троянди, плоди шипшини, цедра апельсина і ромашка привносять смак і аромат терпкість, трав'янистість і яскравість.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Фуцзян Квітуча квітка",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Насичиний мікс різнотравя з мелюстками троянди і інших польових квітів",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Фуцзян Квітуча квітка",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Квиіт чайнох троянди та гірське різнотрав’я які зібрані особливо делікатним методом ",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "chinese"
+      ]
+    },
+    {
+      "category": "oolong-tea",
+      "name": {
+        "ua": "Улуни",
+        "eng": "Oolong Tea"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "imageUrl": "oolong-tea.png",
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Молочний улун",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 340,
+              "price": 25
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Улун китайський високогірний молодий, натуральний ароматизатор “молоко”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Женьшень улун",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Вишуканий чай відомий своїм солодким смаком і сильним збадьорливим ефектом. Листя улуну, «обсипане» порошком з коріння женьшеню та листя паддубу, скручене в сіро-смарагдові камінці",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Те Гуанінь Хуа Сян",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Улун китайський високогірний молодий, натуральний ароматизатор “молоко”",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "chinese",
+        "oolong"
+      ]
+    },
+    {
+      "category": "puerh-tea",
+      "name": {
+        "ua": "Пуєр",
+        "eng": "Pu-Erh"
+      },
+      "description": {
+        "ua": "",
+        "eng": ""
+      },
+      "imageUrl": "img-pu-erh.png",
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Шу Пу Єр в кубиках",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Ферментований молодий чай, що створений за старовинною технологією V ст.  Користь і цінність цього чаю, як і колір, значно змінюються з кожним роком витримкі у спецільних погребах, як у гарного коньяку. Має антисептичні влстивості.",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Шен Пу Єр медальйон",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Чорний сильно-ферментований чай, що створений за старовинною технологією V ст.н.е. Відмінною особливістью шен пуерів є їх смарагдовий відтінок, як сухого чаю, так і заварки. Користь і цінність цього чаю, як і колір, значно змінюються з кожним роком витримкі у спецільних погребах, як у гарного коньяку",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        },
+        {
+          "name": {
+            "ua": "Чайник із свічкою",
+            "eng": ""
+          },
+          "description": {
+            "ua": "",
+            "eng": ""
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "imageUrl": "",
+          "prices": [
+            {
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "volume": 900,
+              "price": 100
+            }
+          ],
+          "available": true,
+          "ingredients": [
+            {
+              "name": {
+                "ua": "Kettle with a candle. Чай подається в великому скляому заварнику з свічкою яка його нагріває і підтримує в ньому стабільну температуру зберігаючи тепло і насичений смак чаю",
+                "eng": ""
+              },
+              "description": {
+                "ua": "",
+                "eng": ""
+              },
+              "prices": [],
+              "volumeUnit": {
+                "ua": "",
+                "eng": ""
+              },
+              "available": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "tea",
+        "chinese",
+        "puerh"
+      ]
+    },
+    {
+      "category": "beverage",
+      "name": {
+        "ua": "Холодні напої",
+        "eng": ""
+      },
+      "imageUrl": "img-cold-drinks.png",
+      "tags": [
+        "beverage"
+      ],
+      "available": true,
+      "items": [
+        {
+          "name": {
+            "ua": "Лимонад",
+            "eng": "Класичний / Імбирний"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 40,
+              "volume": 420
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Мохіто без алкогольний",
+            "eng": "Mojito No Alcohol"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 45,
+              "volume": 420
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Еспресо тонік",
+            "eng": "Espresso Tonic"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 50,
+              "volume": 420
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Оранж кава",
+            "eng": "Orange coffee"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 50,
+              "volume": 420
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Сік",
+            "eng": "juice"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 20,
+              "volume": 200
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Кока-Кола пляшка",
+            "eng": "Coca-Cola plastic bottle"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 500
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Кока-Кола банка",
+            "eng": "Coca-Cola aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 330
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Кока-Кола Зіроу пляшка",
+            "eng": "Coca-Cola Ziro aluminum bottle"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 500
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Спрайт пляшка",
+            "eng": "Sprite plastic bottle"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 500
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Спрайт банка",
+            "eng": "Sprite aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 330
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Фанта пляшка",
+            "eng": "Fanta plastic bottle"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 500
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Фанта банка",
+            "eng": "Fanta aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 330
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Фанта Шоката пляшка",
+            "eng": "Fanta Shokata plastic bottle"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 500
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Фанта Шоката банка",
+            "eng": "Fanta Shokata aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 330
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Бон Аква газована",
+            "eng": "BonAqua plastic bottle"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 20,
+              "volume": 500
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Бон Аква негазована",
+            "eng": "BonAqua plastic bottle"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 20,
+              "volume": 500
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Швепс Бітер Лимон",
+            "eng": "Schweppes Bitter Lemon aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Швепс Тонік Вотер",
+            "eng": "Schweppes Tonic Water aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Швепс Мохіто",
+            "eng": "Schweppes Mojito aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Швепс Гранат",
+            "eng": "Schweppes Pomegranate aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        },
+        {
+          "name": {
+            "ua": "Швепс Грейпфрут",
+            "eng": "Schweppes Grapefrut aluminum can"
+          },
+          "priceUnit": {
+            "ua": "UAH",
+            "eng": "грн"
+          },
+          "prices": [
+            {
+              "price": 25,
+              "volume": 250
+            }
+          ],
+          "available": true,
+          "volumeUnit": {
+            "ua": "мл",
+            "eng": "ml"
+          },
+          "ingredients": []
+        }
+      ]
+    }
+  ]
+}

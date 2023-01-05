@@ -1,0 +1,13 @@
+---
+- name: build client
+  docker_image:
+    build:
+      path: ../../client
+      args:
+        SERVER_BASE_URL: "{{ server_base_url }}"
+        CLIENT_PORT: "{{ client_port_to }}"
+        SERVER_PORT: "{{ server_port_to }}"
+    name: "{{ client_image }}"
+    push: true
+    source: build
+    force_source: yes

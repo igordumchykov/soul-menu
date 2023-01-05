@@ -1,0 +1,7 @@
+---
+ec2_backend_count: 1
+
+key_name: "{{ app_name }}-{{ app_env }}-pair"
+ami_id: 'ami-0caef02b518350c8b'
+instance_type: 't2.micro'
+instance_name: "{{ app_name }}-{{ app_env }}"

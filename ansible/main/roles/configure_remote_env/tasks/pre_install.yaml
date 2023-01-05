@@ -1,0 +1,6 @@
+---
+- name: Update apt and install docker.io
+  apt:
+    name: docker.io
+    state: latest
+    update_cache: true

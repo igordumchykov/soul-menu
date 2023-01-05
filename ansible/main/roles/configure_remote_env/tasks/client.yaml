@@ -1,0 +1,8 @@
+---
+- name: create a frontend container
+  docker_container:
+    name: "{{ app_name }}-{{ app_env }}-frontend"
+    image: "{{ client_image }}"
+    pull: true
+    published_ports:
+      - "{{ client_port_from }}:{{ client_port_to }}"

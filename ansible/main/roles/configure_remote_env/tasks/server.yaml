@@ -1,0 +1,21 @@
+---
+- name: Create a backend container
+  docker_container:
+    name: "{{ app_name }}-{{ app_env }}-backend"
+    image: "{{ server_image }}"
+    pull: true
+    env:
+      AWS_ACCESS_KEY_ID: "{{ aws_access_key }}"
+      AWS_SECRET_ACCESS_KEY: "{{ aws_secret_key }}"
+      AWS_REGION: "{{ region_name }}"
+      DB_URI: "{{ db_uri }}"
+      DB_NAME: "{{ db_name }}"
+      APPLICATION_SECURITY_AUTHENTICATION_SECRET: "{{ app_security_secret }}"
+      SPRING_PROFILES_ACTIVE: "{{ spring_profile }}"
+      INIT_USER_EMAIL_LIST: "{{ init_user_email_list }}"
+      INIT_USER_LOGIN_LIST: "{{ init_user_login_list }}"
+      INIT_USER_ROLE_LIST: "{{ init_user_role_list }}"
+      INIT_USER_PASSWORD_LIST: "{{ init_user_password_list }}"
+      SERVER_PORT: "{{ server_port_from }}"
+    published_ports:
+      - "{{ server_port_from }}:{{ server_port_to }}"
